@@ -1,0 +1,98 @@
+html{
+background-color:pink;
+background:linear-gradient(rgb(185, 55, 55), pink, white);
+}
+#links{
+font-size:30px;
+color:black;
+position:absolute;
+}
+#title{
+font-size:70px;
+color:rgb(65, 11, 11);
+text-align:center;
+padding-bottom:20px;
+padding-top:20px;
+background-color:whitesmoke;
+font-variant:small-caps;
+font-weight:bold;
+font-style:italic;
+text-shadow:3px 3px 5px gray;
+}
+.paxtynfirst{
+width:30%;
+transform:rotate(90deg);
+position:absolute;
+top:700px;
+padding:2px;
+border:solid darkred;
+}
+.paxtynsecond{
+width:30%;
+transform:rotate(90deg);
+position:absolute;
+top:700px;
+left:300px;
+padding:2px;
+border:solid darkred;
+}
+.paxtynthird{
+width:30%;
+transform:rotate(90deg);
+position:absolute;
+top:700px;
+left:600px;
+padding:2px;
+border:solid darkred;
+}
+.paxtynforth{
+width:30%;
+transform:rotate(90deg);
+position:absolute;
+top:700px;
+left:900px;
+padding:2px;
+border:solid darkred;
+}
+.paxtynfifth{
+width:30%;
+transform:rotate(90deg);
+position:absolute;
+top:250px;
+padding:2px;
+border:solid darkred;
+}
+.paxtynsixth{
+width:30%;
+transform:rotate(90deg);
+position:absolute;
+top:250px;
+left:300px;
+padding:2px;
+border:solid darkred;
+}
+.paxtynseventh{
+width:30%;
+transform:rotate(90deg);
+position:absolute;
+top:250px;
+left:600px;
+padding:2px;
+border:solid darkred;
+}
+.paxtyneighth{
+width:30%;
+transform:rotate(90deg);
+position:absolute;
+top:250px;
+left:900px;
+padding:2px;
+border:solid darkred;
+}
+#summary{
+font-size:30px;
+margin:center;
+padding-top:925px;
+margin-left:200px;
+margin-right:200px;
+}

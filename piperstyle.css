@@ -1,0 +1,73 @@
+html{
+background-color:purple;
+background:linear-gradient(purple, white);
+height:100%;
+}
+#links{
+font-size:30px;
+color:black;
+position:absolute;
+}
+#title{
+font-size:70px;
+color:rgb(48, 7, 68);
+text-align:center;
+padding-bottom:20px;
+padding-top:20px;
+background-color:whitesmoke;
+font-variant:small-caps;
+font-weight:bold;
+font-style:italic;
+text-shadow:3px 3px 5px gray;
+}
+.piperfirst{
+width:40%;
+transform:rotate(90deg);
+position:absolute;
+top:300px;
+padding:2px;
+border:solid purple;
+}
+.pipersecond{
+width:20%;
+transform:rotate(360deg); 
+position:absolute;
+top:800px;
+left:800px;
+padding:2px;
+border:solid purple;
+}
+.piperthird{
+width:40%;
+position:absolute; 
+top:800px;
+left:100px;
+padding:2px;
+border:solid purple;
+}
+.piperforth{
+width:40%;
+transform:rotate(90deg);
+position:absolute; 
+top:300px;
+left:400px;
+padding:2px;
+border:solid purple;
+}
+.allfour{
+width:40%;
+transform:rotate(90deg);
+position:absolute;
+top:300px;
+left:800px;
+padding:2px;
+border:solid purple;
+}
+#summary{
+color:rgb(219, 198, 198);
+font-size:30px;
+position:absolute;
+top:1100px;
+left:30px;
+margin-right:550px;
+}

@@ -1,0 +1,59 @@
+html{
+background-color: aquamarine;
+background:linear-gradient(aquamarine, white, rgb(216, 196, 85));
+}
+.table{
+display:table;  /*allow the centering to work*/
+margin:0 auto;
+}
+ul#links{
+list-style:none;
+word-spacing:30px;
+}
+ul#links li{
+display:inline;
+font-size:40px;
+}
+/* container hoding the image and the text */
+.wings{
+position:relative;
+text-align:center;
+color:hotpink;
+font-size:75px;
+padding-top:20;
+padding-bottom:10px;
+
+}
+/* centered text */
+.centered{
+position:absolute;
+top:50%;
+left:50%;
+transform:translate(-50%, -50%);
+padding-bottom:110;
+font-variant:small-caps;
+font-weight:bold;
+font-family:'cursive';
+font-style:oblique;
+text-shadow:4px 4px 10px black;
+}
+#allgirls{
+margin:center;
+float:center;
+padding-top:20;
+width:50%;
+margin-left:335;
+padding:2px;
+border:solid gray;
+}
+#summary{
+font-size:30px;
+margin-left:200px;
+margin-right:200px;
+}
+#bottom{
+background-color:white;
+position:relative;
+text-align:center;
+font-size:10px;
+}

@@ -1,0 +1,74 @@
+html{
+background-color:teal;
+background:linear-gradient(teal, white);
+}
+#links{
+font-size:30px;
+color:black;
+position:absolute;
+}
+#title{
+font-size:70px;
+color:rgb(90, 83, 83);
+text-align:center;
+padding-bottom:20px;
+padding-top:20px;
+background-color:whitesmoke;
+font-variant:small-caps;
+font-weight:bold;
+font-style:italic;
+text-shadow:3px 3px 8px black;
+}
+.paytonfirst{
+width:45%;
+transform:rotate(90deg);
+position:absolute;
+right:800px; /* moves the image 800px closer to the left of the page */
+top:300px;
+padding:2px;
+border:solid rgb(4, 114, 86);
+}
+.paytonsecond{
+width:45%;
+position:absolute;
+margin:center;
+top:800px; /* moves the image 300px closer to the bottom of the page */
+left:75px;
+padding:2px;
+border:solid rgb(4, 114, 86);
+}
+.paytonthird{
+width:45%;
+transform:rotate(90deg);
+position:absolute;
+top: 300px; /* moves the image 300px closer to the top of the page */
+right:375px;
+padding:2px;
+border:solid rgb(4, 114, 86);
+}
+.paytonforth{
+width:45%;
+transform:rotate(90deg);
+position:absolute;
+top:300px; /* moves the image 300px closer to the top of the page */
+left:800px;
+padding:2px;
+border:solid rgb(4, 114, 86);
+}
+.alltwo{
+width:30%;
+transform:rotate(360deg);
+position:absolute;
+top:800px;
+left:745px;
+padding:2px;
+border:solid rgb(4, 114, 86);
+}
+#summary{
+color:black;
+font-size:30px;
+position:absolute;
+top:1150px;
+left:25px;
+margin-right:600px;
+}
